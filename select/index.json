@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "シンクロニシティ",
+  "base_artist": "乃木坂46",
+  "createdAt": "2025-12-22T05:47:25.996367Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "シンクロニシティ",
+      "artist": "WagakkiBand",
+      "has_synced": true,
+      "path": "select/01_シンクロニシティ_WagakkiBand.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "シンクロニシティ",
+      "artist": "和楽器バンド",
+      "has_synced": true,
+      "path": "select/02_シンクロニシティ_和楽器バンド.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "シンクロニシティ",
+      "artist": "Nogizaka46",
+      "has_synced": true,
+      "path": "select/03_シンクロニシティ_Nogizaka46.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "シンクロニシティ",
+      "artist": "乃木坂46",
+      "has_synced": true,
+      "path": "select/04_シンクロニシティ_乃木坂46.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "シンクロニシティ(素敵な偶然)",
+      "artist": "Mariya Takeuchi",
+      "has_synced": true,
+      "path": "select/05_シンクロニシティ(素敵な偶然)_Mariya_Takeuchi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "シンクロニシティ (素敵な偶然)",
+      "artist": "竹内まりや",
+      "has_synced": true,
+      "path": "select/06_シンクロニシティ_(素敵な偶然)_竹内まりや.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "シンクロニシティ",
+      "artist": "和楽器バンド (Wagakki Band)",
+      "has_synced": true,
+      "path": "select/07_シンクロニシティ_和楽器バンド_(Wagakki_Band).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "シンクロニシティ",
+      "artist": "wagakkiband",
+      "has_synced": true,
+      "path": "select/08_シンクロニシティ_wagakkiband.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ヨロコビ・シンクロニシティ",
+      "artist": "チーム“ハナヤマタ”",
+      "has_synced": false,
+      "path": "select/09_ヨロコビ・シンクロニシティ_チーム“ハナヤマタ”.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "シンクロニシティ",
+      "artist": "Wagakki Band",
+      "has_synced": true,
+      "path": "select/10_シンクロニシティ_Wagakki_Band.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Synchronicity/ シンクロニシティ",
+      "artist": "Wagakki Band",
+      "has_synced": true,
+      "path": "select/11_Synchronicity__シンクロニシティ_Wagakki_Band.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "シンクロニシティ",
+      "artist": "Mariya Takeuchi",
+      "has_synced": false,
+      "path": "select/12_シンクロニシティ_Mariya_Takeuchi.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "シンクロニシティ",
+      "artist": "和楽器バンド",
+      "has_synced": true,
+      "path": "select/13_シンクロニシティ_和楽器バンド.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シンクロニシティ",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_01_シンクロニシティ_乃木坂46.txt"
+    }
+  ]
+}
